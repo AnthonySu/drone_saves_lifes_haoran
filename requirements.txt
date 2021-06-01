@@ -17,5 +17,5 @@ pytz==2018.3
 requests==2.18.4
 scikit-fmm==0.0.9
 six==1.11.0
-urllib3==1.22
+urllib3==1.26.5
 Werkzeug==0.14.1
